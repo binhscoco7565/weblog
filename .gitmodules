@@ -1,0 +1,7 @@
+[submodule "binhscoco7565/public"]
+	path = binhscoco7565/public
+	url = https://github.com/binhscoco7565/binhscoco7565.github.io.git
+	branch = main
+[submodule "binhscoco7565/binhscoco7565/themes/smol"]
+	path = binhscoco7565/binhscoco7565/themes/smol
+	url = https://github.com/colorchestra/smol
